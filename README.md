@@ -42,11 +42,14 @@ Notification from the lock screen.
 ### Sign in page
 ![alt text][sign_in_page]{width=300px}
 
+### Home page
+![alt text][home_page]{width=300px}
+
 ### Users Page
 ![alt text][users_page]{width=300px}
 
 [//]: # (Image References)
-[sign_in_page]: ./assets/sign_in_page.png
+[home_page]: ./assets/home_page.png
 [sign_up_page]: ./assets/sign_up_page.png
 [users_page]: ./assets/users_page.png
 [status_bar_push_notification]: ./assets/status_bar_push_notification.png
