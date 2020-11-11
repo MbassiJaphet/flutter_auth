@@ -49,7 +49,7 @@ Notification from the lock screen.
 ![alt text][users_page]{width=300px}
 
 [//]: # (Image References)
-[sign_up_page]: ./assets/sign_in_page.png
+[sign_in_page]: ./assets/sign_in_page.png
 [sign_up_page]: ./assets/sign_up_page.png
 [home_page]: ./assets/home_page.png
 [users_page]: ./assets/users_page.png
