@@ -27,7 +27,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ### Sign up page
-Sign up using emmail, username, and password.
+Sign up using email, username, and password.
 
 <img src="./assets/sign_up_page.png" width="250"/>
 
@@ -38,15 +38,15 @@ Push Notifications are triggered from the client-side to all registered app user
 Notification from the status bar and the lock screen.
 
 <img src="./assets/status_bar_push_notification.png" width="250"/>
-<img src="./assets/lock_screen_push_notification.png" width="250" height="250"/>
+<img src="./assets/lock_screen_push_notification.png" width="250"/>
 
 ### Sign in page
-Sign in using a emmail/username, and password.
+Sign in using email/username, and password.
 
 <img src="./assets/sign_in_page.png" width="250"/>
 
 ### Home page
-<img src="./assets/sign_up_page.png" width="250"/>
+<img src="./assets/home_page.png" width="250"/>
 
 ### Users Page
 <img src="./assets/users_page.png" width="250"/>
