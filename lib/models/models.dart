@@ -1,0 +1,1 @@
+export 'package:flutter_auth/models/user.dart';

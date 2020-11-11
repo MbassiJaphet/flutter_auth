@@ -1,0 +1,22 @@
+{
+    "className": "_Session",
+    "objectId": "qKU2Hc3CvI",
+    "createdAt": "2020-11-11T04:18:53.173Z",
+    "updatedAt": "2020-11-11T04:18:53.173Z",
+    "sessionToken": "r:f2ef0c0e537218ce32cb8623f9a3b269",
+    "user": {
+        "__type": "Pointer",
+        "className": "_User",
+        "objectId": "HbxjUi9iEw"
+    },
+    "createdWith": {
+        "action": "login",
+        "authProvider": "password"
+    },
+    "restricted": false,
+    "expiresAt": {
+        "__type": "Date",
+        "iso": "2021-11-11T04:18:53.173Z"
+    },
+    "installationId": "effa909a-a552-4968-8fe3-6a392c4311ce"
+}
