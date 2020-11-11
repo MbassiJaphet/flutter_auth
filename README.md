@@ -43,6 +43,7 @@ Notification from the lock screen.
 ![alt text][sign_in_page]{width=300px}
 
 ### Home page
+<img src="./assets/sign_up_page.png" width="250"/>
 ![](./assets/sign_up_page.png = 250x)
 ![alt text][home_page]{width=300px}
 
