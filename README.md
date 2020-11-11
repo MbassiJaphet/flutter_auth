@@ -43,13 +43,14 @@ Notification from the lock screen.
 ![alt text][sign_in_page]{width=300px}
 
 ### Home page
+![](./assets/sign_up_page.png = 250x)
 ![alt text][home_page]{width=300px}
 
 ### Users Page
 ![alt text][users_page]{width=300px}
 
 [//]: # (Image References)
-[sign_in_page]: ./assets/sign_in_page.png
+[sign_in_page]: ./assets/sign_in_page.png  = 250x
 [sign_up_page]: ./assets/sign_up_page.png
 [home_page]: ./assets/home_page.png
 [users_page]: ./assets/users_page.png
